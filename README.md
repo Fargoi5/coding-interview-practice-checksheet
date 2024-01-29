@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
+- [What is my plan?](#what-is-my-plan---)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
