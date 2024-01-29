@@ -133,7 +133,8 @@ I will be following the checklist from top to bottom, and creating study flash c
 
 ## How to use it
 
-Everything below is an outline, and you should tackle the items in order from top to bottom.
+Everything below is an outline, and you should tackle the items in order from top to bottom. 
+(Thats my plan, but skipping some areas that I will come back to if time allows). 
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
 
@@ -144,8 +145,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ## Don't feel you aren't smart enough 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) (Skipping for now -> I'm pretty aware of engineers, the myth of the 10X engineer, etc). 
+- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY) (Also skipping will come back to it after I complete my other work)
 
 ## About Video Resources
 
