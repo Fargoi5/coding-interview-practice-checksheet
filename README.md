@@ -127,7 +127,7 @@
 ---
 
 ## What is my plan --
-My education consists of a business undergraduate degree and a couple years post grad focusing on computer science (most of the computer science core). I want to cross the bridge from good senior engineer (principal level at a non FAANG) to be on par with the best engineers at FAANG tech companies. My interview skills are also not up to par, and I need to improve to continue a positive career track. I was searching for a solid checklist of items to cover, was lucky to find that rabari had compile his repo, from studying on his similar journey. 
+My education consists of a business undergraduate degree and a couple years post grad focusing on computer science (most of the computer science core). I want to cross the bridge from good senior engineer (principal level at a non FAANG) to be on par with the best engineers at FAANG tech companies. My interview skills are also not up to par, and I need to improve to continue a positive career track. I was searching for a solid checklist of items to cover, was lucky to find that rabari had compiled his repo, from studying on his similar journey. 
 
 I will be following the checklist from top to bottom, and creating study flash cards on quizlet.com. I will link to those flash cards as I cover the various areas.
 
