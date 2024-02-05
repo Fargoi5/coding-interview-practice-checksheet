@@ -443,6 +443,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
+- [x] Data Structures Complexity Flashcards (https://quizlet.com/756347234/data-structure-complexity-diagram/)
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
