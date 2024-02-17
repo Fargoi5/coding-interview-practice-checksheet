@@ -179,14 +179,12 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
-- C++
 - Java
 - Python
 
 You could also use these, but read around first. There may be caveats:
 
 - JavaScript
-- Ruby
 
 You need to be very comfortable in the language and be knowledgeable.
 
@@ -195,8 +193,6 @@ Read more about choices:
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [See language resources here](programming-language-resources.md)
-
-You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
 ## Book List
 
